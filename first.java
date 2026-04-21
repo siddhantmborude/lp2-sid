@@ -1,5 +1,5 @@
-public class first {
-    int multiply(int a, int b){
-        return a * b;
+class first {
+    public static void main(String[] args) {
+        System.out.println("Hello Cloud");
     }
 }
